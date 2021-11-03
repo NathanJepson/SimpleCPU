@@ -10,9 +10,9 @@ Most of the provided files on his page worked only in Altera, so my purpose was 
 working in Quartus.
 
 The purpose of this project was to better understand how you get from a conception of logic gates
-to the conception of assembly instructions. I took a digital logic class (dealing with logic gates), and 
-I took a computer architecture class where I learned about Assembly code and the general layout of
-a CPU, but I still felt like there was a disconnect between how you get from logic gates
+to the conception of assembly instructions. I took a digital logic class which explored logic
+gates and flip-flops, and I also took a computer architecture class where I learned about Assembly code 
+and the general layout of a CPU, but I still felt like there was a disconnect between how you get from logic gates
 to the level of a CPU. Mike's page is really helpful in bridging that gap. 
 
 There might be some files included here that are not needed to get the CPU working. 
