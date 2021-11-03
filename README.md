@@ -29,4 +29,6 @@ since that time.
 # Note
 Mike's CPU project went further than I did, up to and including building a Python assembler. Check out his main page here:
 http://www.simplecpudesign.com/
-Scroll down and you can see the further expansions he made to this project under 'A Simple CPU'--which then has version numbers of his project listed. 
+
+Scroll down and you can see the further expansions he made to this project under the section
+'A Simple CPU'--which then has version numbers of his project listed. 
