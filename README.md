@@ -7,7 +7,12 @@ You can see his page here:
 http://www.simplecpudesign.com/simple_cpu_v1/index.html
 
 Most of the provided files on his page worked only in Altera, so my purpose was to merely get his simple CPU
-working in Quartus.
+working in Quartus. I created all of the block symbol files (.bsf) files from scratch. I then
+generated many of the Verilog files you see here. 
+
+Many of the flip-flops used were native to Quartus and were not created by me. 
+
+The RAM, as far as I'm aware, only works if it's a .VHD file.
 
 The purpose of this project was to better understand how you get from a conception of logic gates
 to the conception of assembly instructions. I took a digital logic class which explored logic
