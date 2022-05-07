@@ -26,6 +26,10 @@ which files were not needed. I was able to get the CPU working in Quartus, but
 the files might need slight modifications since I haven't touched the project 
 since that time. 
 
+Overarching CPU Design here (zoom in until it's legible):
+[FINAL_MODEL.pdf](https://github.com/NathanJepson/SimpleCPU/files/8645912/FINAL_MODEL.pdf)
+
+
 # Note
 Mike's CPU project went further than I did, up to and including building a Python assembler. Check out his main page here:
 http://www.simplecpudesign.com/
