@@ -29,6 +29,10 @@ since that time.
 Overarching CPU Design here (zoom in until it's legible):
 [FINAL_MODEL.pdf](https://github.com/NathanJepson/SimpleCPU/files/8645912/FINAL_MODEL.pdf)
 
+I loaded one of Mike's pre-written programs which counts by 10, (one of the RAM files in .VHD format), and was able to see it running correctly in a Vector Waveform file in Quartus. (Shown below, called "Test 3"). It was really excited when I got it working. 
+
+<img width="960" alt="IT_WORKS!!!!!!!!" src="https://user-images.githubusercontent.com/61210670/167271671-49dd13ae-b95f-496e-91af-5c618fb5e14f.PNG">
+
 
 # Note
 Mike's CPU project went further than I did, up to and including building a Python assembler. Check out his main page here:
