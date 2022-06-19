@@ -35,7 +35,7 @@ I loaded one of Mike's pre-written programs which counts by 10, (one of the RAM 
 
 
 # Note
-Mike's CPU project went further than I did, up to and including building a Python assembler. Check out his main page here:
+Mike's CPU project has many additions including a Python assembler. Check out his main page here:
 http://www.simplecpudesign.com/
 
 Scroll down and you can see the further expansions he made to this project under the section
