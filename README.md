@@ -1,5 +1,5 @@
 # SimpleCPU
-I modified someone else's Simple CPU design so that it would in Quartus. 
+I reconstructed someone else's Simple CPU design so that it would in Quartus. 
 
 To clarify, this CPU design comes from Mike, who wrote a neat little how-to page on
 how to build a CPU from logic gates. 
